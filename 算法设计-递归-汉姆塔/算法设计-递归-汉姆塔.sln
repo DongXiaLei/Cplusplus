@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法设计-递归-汉姆塔", "算法设计-递归-汉姆塔\算法设计-递归-汉姆塔.vcxproj", "{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Debug|x64.ActiveCfg = Debug|x64
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Debug|x64.Build.0 = Debug|x64
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Debug|x86.Build.0 = Debug|Win32
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Release|x64.ActiveCfg = Release|x64
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Release|x64.Build.0 = Release|x64
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Release|x86.ActiveCfg = Release|Win32
+		{784D8AE8-74F8-4A04-8DDD-EB5ECD23E3CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F03C3A-5C66-460C-91DE-6906B5663189}
+	EndGlobalSection
+EndGlobal

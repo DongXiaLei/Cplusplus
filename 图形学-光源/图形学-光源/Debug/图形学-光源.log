@@ -1,0 +1,6 @@
+﻿  图形学-光源.cpp
+c:\users\administrator\source\repos\图形学-光源\图形学-光源\图形学-光源.cpp(128): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\administrator\source\repos\图形学-光源\图形学-光源\图形学-光源.cpp(129): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\administrator\source\repos\图形学-光源\图形学-光源\图形学-光源.cpp(130): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+c:\users\administrator\source\repos\图形学-光源\图形学-光源\图形学-光源.cpp(131): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  图形学-光源.vcxproj -> C:\Users\Administrator\source\repos\图形学-光源\Debug\图形学-光源.exe

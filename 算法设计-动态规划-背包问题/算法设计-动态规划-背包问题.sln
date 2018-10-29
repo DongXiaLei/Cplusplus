@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "算法设计-动态规划-背包问题", "算法设计-动态规划-背包问题\算法设计-动态规划-背包问题.vcxproj", "{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Debug|x64.ActiveCfg = Debug|x64
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Debug|x64.Build.0 = Debug|x64
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Debug|x86.ActiveCfg = Debug|Win32
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Debug|x86.Build.0 = Debug|Win32
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Release|x64.ActiveCfg = Release|x64
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Release|x64.Build.0 = Release|x64
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Release|x86.ActiveCfg = Release|Win32
+		{D5C0A16A-9A4B-46CF-BDB6-6A31E2BE2744}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F92CC5-854E-465E-9955-43595CACF515}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "图形学-三变换-第三次作业", "图形学-三变换-第三次作业\图形学-三变换-第三次作业.vcxproj", "{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Debug|x64.ActiveCfg = Debug|x64
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Debug|x64.Build.0 = Debug|x64
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Debug|x86.ActiveCfg = Debug|Win32
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Debug|x86.Build.0 = Debug|Win32
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Release|x64.ActiveCfg = Release|x64
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Release|x64.Build.0 = Release|x64
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Release|x86.ActiveCfg = Release|Win32
+		{76465D61-05BF-46B9-B7AD-6D0EE41ABE87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AB61B2-2367-4CE7-A6E3-37D87B42BE41}
+	EndGlobalSection
+EndGlobal
